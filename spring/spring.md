@@ -86,3 +86,6 @@ BeanFactory和ApplicationContext都支持BeanPostProcessor、BeanFactoryPostProc
 9. 如果当前创建的bean是单例的，则会把bean放入单例池
 10. 在运行期间使用bean
 11. Spring容器关闭时调用DisposableBean中的destory()方法
+
+# spring的
+
